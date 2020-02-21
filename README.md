@@ -1,6 +1,9 @@
 # time-callout
 An application for setting the time to an arbitrary deadline and let your PC speak out the current time and time to deadline in 10-minute intervals.
 
+### Restrictions
+Might only work for Windows PC's and those that have Python 3 installed. 
+
 ## Instructions
 1. Open *TimeCallout.exe*. 
 2. Enter the hours and minutes in strict (HH) format. 
